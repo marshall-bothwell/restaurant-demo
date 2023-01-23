@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/restaurant-demo/static/css/main.3465cb1d.css",
+    "main.js": "/restaurant-demo/static/js/main.dc9bc6b9.js",
+    "static/media/pizza.jpg": "/restaurant-demo/static/media/pizza.2a533e0db3d6e78936dc.jpg",
+    "static/media/BeerGif2.gif": "/restaurant-demo/static/media/BeerGif2.aedd6a9bcadef7239aa2.gif",
+    "static/media/demo-logo.jpg": "/restaurant-demo/static/media/demo-logo.50d104fc1e6aaa07a68d.jpg",
+    "index.html": "/restaurant-demo/index.html",
+    "main.3465cb1d.css.map": "/restaurant-demo/static/css/main.3465cb1d.css.map",
+    "main.dc9bc6b9.js.map": "/restaurant-demo/static/js/main.dc9bc6b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3465cb1d.css",
+    "static/js/main.dc9bc6b9.js"
+  ]
+}
